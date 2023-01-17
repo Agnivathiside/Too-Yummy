@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         if (quantity<0){
             quantity=0;
             Context context = getApplicationContext();
-            CharSequence text = "Ki Dhoroner Nesha korecho !?";
+            CharSequence text = "Quantity can not be negative !";
             int duration = Toast.LENGTH_SHORT;
 
             Toast toast = Toast.makeText(context, text, duration);
