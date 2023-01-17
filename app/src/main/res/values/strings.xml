@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Too yummy !</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="increament">+</string>
+    <string name="_0">0</string>
+    <string name="decreament">-</string>
+    <string name="order_summery">ORDER SUMMERY</string>
+    <string name="order">ORDER</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">NAME</string>
+</resources>
